@@ -54,3 +54,16 @@ The website is created using the **Laravel** framework.
 
 ![Screenshot 2025-02-25 133535](https://github.com/user-attachments/assets/05ddd180-004c-4652-a89e-c9c23d2717ae)
 
+![Screenshot 2025-02-25 133750](https://github.com/user-attachments/assets/06711bc7-1700-4433-b243-6e0d941f9dc2)
+
+
+![Screenshot 2025-02-25 133314](https://github.com/user-attachments/assets/1e3823da-ba05-4599-acf5-21f6750eb495)
+
+
+![Screenshot 2025-02-25 133359](https://github.com/user-attachments/assets/7c004781-cd91-465b-8606-3b2151995d27)
+![Screenshot 2025-02-25 133336](https://github.com/user-attachments/assets/de673c91-0624-48fb-aff0-58c6309b3109)
+
+
+![Screenshot 2025-02-25 133207](https://github.com/user-attachments/assets/8fe1b7e2-b96a-42bf-87c9-4c288d65041e)
+
+![Screenshot 2025-02-25 133836](https://github.com/user-attachments/assets/90c1fab5-48ed-4a7b-aee1-b2ab5cc50a6a)
