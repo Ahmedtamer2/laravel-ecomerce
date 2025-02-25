@@ -21,6 +21,8 @@ This is an e-commerce site that allows users to browse and purchase any products
 4. **Search for any product** – Find products using a search function.  
 5. **Proceed to checkout and provide order details** – Enter required information like phone number, location, and postal code.  
 6. **Confirm the order** – Finalize the purchase and place the order.  
+7. **Receive an email confirmation** – The user will receive an email notification once the order is accepted.  
+
 
 
 ## Admin Features
