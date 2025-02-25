@@ -13,6 +13,16 @@ This is an e-commerce site that allows users to browse and purchase any products
 
 ---
 
+# User Features
+
+1. **View product listings** – Browse available products.  
+2. **View detailed product information** – See product descriptions, prices, and images.  
+3. **Add products to the cart** – Select items and add them to your shopping cart.  
+4. **Search for any product** – Find products using a search function.  
+5. **Proceed to checkout and provide order details** – Enter required information like phone number, location, and postal code.  
+6. **Confirm the order** – Finalize the purchase and place the order.  
+
+
 ## Admin Features
 - Add new products
 - Modify existing products
