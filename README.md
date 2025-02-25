@@ -40,3 +40,4 @@ This is an e-commerce site that allows users to browse and purchase any products
 # Technologies
 
 The website is created using the **Laravel** framework.
+![Screenshot 2025-02-25 133420](https://github.com/user-attachments/assets/5e2cd166-b7ad-49cd-9b75-ffb277e6b53b)
