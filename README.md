@@ -25,6 +25,7 @@ This is an e-commerce site that allows users to browse and purchase any products
 
 ## Steps to Install
 1. **Clone the repository**
+2. 
 2.install User dashboard from template https://asibur.gumroad.com/l/kibcwe?layout=profile&recommended_by=library
 
 # Usage
